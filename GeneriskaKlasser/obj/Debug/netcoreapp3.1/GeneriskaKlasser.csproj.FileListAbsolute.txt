@@ -1,0 +1,13 @@
+C:\Users\william.wolke\Documents\Programering 2\GeneriskaKlasser\GeneriskaKlasser\bin\Debug\netcoreapp3.1\GeneriskaKlasser.exe
+C:\Users\william.wolke\Documents\Programering 2\GeneriskaKlasser\GeneriskaKlasser\bin\Debug\netcoreapp3.1\GeneriskaKlasser.deps.json
+C:\Users\william.wolke\Documents\Programering 2\GeneriskaKlasser\GeneriskaKlasser\bin\Debug\netcoreapp3.1\GeneriskaKlasser.runtimeconfig.json
+C:\Users\william.wolke\Documents\Programering 2\GeneriskaKlasser\GeneriskaKlasser\bin\Debug\netcoreapp3.1\GeneriskaKlasser.runtimeconfig.dev.json
+C:\Users\william.wolke\Documents\Programering 2\GeneriskaKlasser\GeneriskaKlasser\bin\Debug\netcoreapp3.1\GeneriskaKlasser.dll
+C:\Users\william.wolke\Documents\Programering 2\GeneriskaKlasser\GeneriskaKlasser\bin\Debug\netcoreapp3.1\GeneriskaKlasser.pdb
+C:\Users\william.wolke\Documents\Programering 2\GeneriskaKlasser\GeneriskaKlasser\obj\Debug\netcoreapp3.1\GeneriskaKlasser.csprojAssemblyReference.cache
+C:\Users\william.wolke\Documents\Programering 2\GeneriskaKlasser\GeneriskaKlasser\obj\Debug\netcoreapp3.1\GeneriskaKlasser.AssemblyInfoInputs.cache
+C:\Users\william.wolke\Documents\Programering 2\GeneriskaKlasser\GeneriskaKlasser\obj\Debug\netcoreapp3.1\GeneriskaKlasser.AssemblyInfo.cs
+C:\Users\william.wolke\Documents\Programering 2\GeneriskaKlasser\GeneriskaKlasser\obj\Debug\netcoreapp3.1\GeneriskaKlasser.csproj.CoreCompileInputs.cache
+C:\Users\william.wolke\Documents\Programering 2\GeneriskaKlasser\GeneriskaKlasser\obj\Debug\netcoreapp3.1\GeneriskaKlasser.dll
+C:\Users\william.wolke\Documents\Programering 2\GeneriskaKlasser\GeneriskaKlasser\obj\Debug\netcoreapp3.1\GeneriskaKlasser.pdb
+C:\Users\william.wolke\Documents\Programering 2\GeneriskaKlasser\GeneriskaKlasser\obj\Debug\netcoreapp3.1\GeneriskaKlasser.genruntimeconfig.cache
