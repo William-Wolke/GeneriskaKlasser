@@ -35,6 +35,7 @@ namespace GeneriskaKlasser
 
             for (int i = 0; i < 4; i++)
             {
+                System.Console.WriteLine(lootedProducts.Peek());
                 checkoutPrice.Add(goods[lootedProducts.Dequeue()]);
                 System.Console.WriteLine("Item price " + checkoutPrice[i]);
                 System.Console.WriteLine("Item " + (i+1) + " of " + 4); 
